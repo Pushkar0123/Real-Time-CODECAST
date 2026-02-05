@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\EditorPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\EditorPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\Client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditorPage.js",
+              "DocumentMoniker": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\EditorPage.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\EditorPage.js",
+              "ToolTip": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\EditorPage.js",
+              "RelativeToolTip": "client\\src\\components\\EditorPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T19:36:25.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.js",
+              "DocumentMoniker": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\Client.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Client.js",
+              "ToolTip": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\components\\Client.js",
+              "RelativeToolTip": "client\\src\\components\\Client.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T19:36:01.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\App.js",
+              "RelativeDocumentMoniker": "client\\src\\App.js",
+              "ToolTip": "C:\\Users\\Akash Kumar\\OneDrive\\Documents\\GitHub\\CodeCast\\client\\src\\App.js",
+              "RelativeToolTip": "client\\src\\App.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T19:35:35.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
